@@ -13,5 +13,6 @@
 4.export OPENAI_KEY=YOUR KEY.
   ```
  We use OpenAI's GPT-4 as the language model. You need to have an OpenAI API key to run task generation with Robotic-Tasks-via-Large-Language-Models. You can get one from here.
-
+ 
+ https://platform.openai.com/account/api-keys
 
