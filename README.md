@@ -1,1 +1,1 @@
-# Generating-Robotic-Simulation-Tasks-via-Large-Language-Models
+# Robotic-Tasks-via-Large-Language-Models
